@@ -41,7 +41,7 @@ else # all-in-one bundle
 
     BINDIR="${ROOT}/CuisVM.app/Contents/Linux-${CPU}/"
     IMAGEDIR="${ROOT}/CuisImage/"
-    IMAGE="${IMAGEDIR}/Cuis6.1.image"
+    IMAGE="${IMAGEDIR}/Cuis6.2.image"
 fi
 
 VM="${BINDIR}/${APP}"
